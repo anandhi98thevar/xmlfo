@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Packages>
+  <Package>
+    <PackagesName>Tan Removal</PackagesName>
+    <Includes>Face,Neck</Includes>
+    <PRICE>650</PRICE>
+  </Package>
+  <Package>
+    <PackagesName>Face Spa</PackagesName>
+    <Includes>Facial,Eyebrows</Includes>
+    <PRICE>750</PRICE>
+  </Package>
+  <Package>
+    <PackagesName>Hair Spa</PackagesName>
+    <Includes>Oiling,Blow</Includes>
+    <PRICE>1000</PRICE>
+  </Package>
+  <Package>
+    <PackagesName>Bridal</PackagesName>
+    <Includes>Drapping,Makeover</Includes>
+    <PRICE>7000</PRICE>
+  </Package>
+  <Package>
+    <PackagesName>Party Look</PackagesName>
+    <Includes>Makeover</Includes>
+    <PRICE>1500</PRICE>
+  </Package>
+  <Package>
+    <PackagesName>Step Cut</PackagesName>
+    <Includes>Hair(Wash,Cut,Blow)</Includes>
+    <PRICE>1000</PRICE>
+  </Package>
+  <Package>
+    <PackagesName>Pedicure</PackagesName>
+    <Includes>waxing,nailart</Includes>
+    <PRICE>1000</PRICE>
+  </Package>
+  <Package>
+    <PackagesName>Manicure</PackagesName>
+    <Includes>waxing,nailart</Includes>
+    <PRICE>1000</PRICE>
+  </Package>
+  </Packages>
